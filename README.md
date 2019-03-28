@@ -5,4 +5,4 @@ Digital semiconductor design verification engineers typically have experience us
 
 To improve this situation, as part of the DARPA POSH program, Synopsys is creating a series of AMS checks, initially written in Python but with the eventual goal to propose a Verilog syntax as an extension to SVA.  Python was selected for many reasons, but chief among them are that it's open source and available today, whereas it will take time for the standards committees to review and approve additional SVA syntax.
 
-This repository will track the progress of this effort.
+This repository will track the progress of this effort.  Included is an explanation of AMS assertion methodology and some AMS checker examples written in System Verilog that run as-is in the VCS simulator.
